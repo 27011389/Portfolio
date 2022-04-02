@@ -1,2 +1,1 @@
-This is my Portfolio
-It is currently under construction 
+This is my Portfolio and it is currently under construction 
